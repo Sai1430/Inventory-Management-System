@@ -25,7 +25,7 @@ bash
 Copy code
 
 ## Setup Instructions
-1. **Clone the repository**  
+**Clone the repository**  
 ```bash
 git clone https://github.com/Sai1430/Inventory-Management-System.git
 cd Inventory-Management-System
@@ -72,3 +72,4 @@ Copy code
     "price": 55000
 }
 Notes
+
