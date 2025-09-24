@@ -25,6 +25,7 @@ bash
 Copy code
 
 ## Setup Instructions
+
 **Clone the repository**  
 ```bash
 git clone https://github.com/Sai1430/Inventory-Management-System.git
@@ -72,4 +73,11 @@ Copy code
     "price": 55000
 }
 Notes
+This project is a simple backend system, ideal for demonstrating Python, Flask, REST API, and MySQL skills.
 
+Can be extended with search, authentication, or cloud deployment.
+
+Author
+Sai Krishna Vamsi
+
+GitHub: https://github.com/Sai1430
